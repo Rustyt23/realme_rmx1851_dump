@@ -1,0 +1,4 @@
+qdtraditional_preinstall.txt
+qiyioemkey.ini
+vova_appchannel.txt
+preinstall-oppo.txt
