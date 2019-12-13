@@ -1,0 +1,7 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.ota.specialneeds.orange" />
+  <feature name="oppo.permission.orange" />
+  <feature name="oppo.securitykeyboard.orange" />
+  <feature name="systemui.statusbar.show.operator.name" />
+</permissions>
